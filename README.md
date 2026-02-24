@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: C, Python, HTML, CSS  
+- 💻 **Languages**: C, Python
 - 🔧 **Tools**: Git, VS Code, Canva  
 - 📚 **Learning**: Data Structures, Machine Learning, Web Dev Basics
 
@@ -28,7 +28,7 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: [mohammedayaan2226@gmail.com](mailto:mohammedayaan2226@gmail.com)
+- 📧 Email: [mohammedayaan2226@gmail.com](mailto:m.ayaan.1708@gmail.com)
 - 💼 LinkedIn: *Coming soon...*
 
 ---
