@@ -8,7 +8,7 @@
 - 🎓 I'm currently pursuing **B.Sc in Computer Science with Machine Learning** at Loyola Academy, Secunderabad  
 - 💡 Passionate about **AI, Web Development**, and building real-world projects  
 - 🚀 Currently learning:  
-  `C Programming`, `Python`, `HTML/CSS/JS`, and `Git/GitHub`
+  `C Programming`, `Python`  and `Git/GitHub`
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: [mohammedayaan2226@gmail.com](mailto:m.ayaan.1708@gmail.com)
+- 📧 Email: [m.ayaan.1708@gmail.com](mailto:m.ayaan.1708@gmail.com)
 - 💼 LinkedIn: *Coming soon...*
 
 ---
